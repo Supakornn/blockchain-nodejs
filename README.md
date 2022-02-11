@@ -1,5 +1,5 @@
-# Blockchain-nodejs
-I'm trying to lern Blockchain
+# Blockchain-nodejs (I'm trying to lern Blockchain)
+- JS
 
 # Install
 ```
