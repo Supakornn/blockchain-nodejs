@@ -7,9 +7,9 @@ npm install
 ```
 
 # Package
-1. crypto-js
-2. express
-3. nodemon
+- crypto-js
+- express
+- nodemon
 
 # Example
 ```js
