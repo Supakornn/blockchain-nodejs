@@ -1,5 +1,7 @@
 # Blockchain-nodejs
 
+I'm trying to lern Blockchain
+
 # Install
 ```
 npm install
