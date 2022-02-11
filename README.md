@@ -5,7 +5,7 @@ npm install
 ```
 
 # Example
-```
+```js
 class Block {
     constructor(
         index,
