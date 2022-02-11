@@ -6,6 +6,11 @@ I'm trying to lern Blockchain
 npm install
 ```
 
+# Package
+1. crypto-js
+2. express
+3. nodemon
+
 # Example
 ```js
 class Block {
