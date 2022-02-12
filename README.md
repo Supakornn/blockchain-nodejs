@@ -6,6 +6,9 @@
 npm install
 ```
 
+# Requirement
+- node.js
+
 # Package
 - crypto-js
 - express
