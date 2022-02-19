@@ -1,7 +1,6 @@
 # Blockchain-nodejs (I'm trying to lern Blockchain)
 - JS
-# Requirement
-- node.js
+
 
 # Install
 ```
