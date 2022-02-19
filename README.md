@@ -1,5 +1,5 @@
 # Blockchain-nodejs (I'm trying to lern Blockchain)
-- sss
+- JS
 # Requirement
 - node.js
 
