@@ -1,4 +1,3 @@
-# Blockchain-nodejs
 I'm try to lern how to build blockchain with js 
 # Install
 ```
