@@ -1,4 +1,4 @@
-## I'm try to lern how to build blockchain with js 
+ I'm try to lern how to build blockchain with js 
 # Install
 ```
 npm install
