@@ -5,10 +5,6 @@ I'm try to lern how to build blockchain with js
 npm install
 ```
 
-# Run
-```
-mpm start
-```
 # Example
 ```js
 class Block {
