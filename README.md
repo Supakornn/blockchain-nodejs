@@ -1,15 +1,14 @@
-# Blockchain-nodejs (I'm trying to lern Blockchain)
-- node.js
+# Blockchain-nodejs
+I'm try to lern how to build blockchain with js 
 # Install
 ```
 npm install
 ```
 
-# Package
-- crypto-js
-- express
-- nodemon
-
+# Run
+```
+mpm start
+```
 # Example
 ```js
 class Block {
